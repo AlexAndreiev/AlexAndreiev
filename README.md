@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olkesandr Andreiev- 
+- 👋 Hi, I’m Oleksandr Andreiev- 
 👀 I’m interested in sport, reading & learning, guitar
 - 🌱 I’m currently learning java, math, algorithms and & data structures
 - 📫 How to reach me:
